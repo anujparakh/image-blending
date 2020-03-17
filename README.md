@@ -10,7 +10,7 @@ The repo is organized in three folders:
 
 ## Running Code
 
-To run the code, the following Python 3 and the following libraries must be installed:
+To run the code, Python 3 and the following libraries must be installed:
 - numpy
 - cv2
 - scipy
